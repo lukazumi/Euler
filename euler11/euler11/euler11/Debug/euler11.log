@@ -1,0 +1,9 @@
+﻿  NumberGrid.cpp
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(77): warning C4101: 'oor': unreferenced local variable
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(88): warning C4101: 'oor': unreferenced local variable
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(99): warning C4101: 'oor': unreferenced local variable
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(113): warning C4101: 'oor': unreferenced local variable
+d:\luke\code\euler\euler11\euler11\euler11\numbergrid.cpp(123): warning C4715: 'NumberGrid::find_product': not all control paths return a value
+  euler11.vcxproj -> D:\Luke\code\Euler\euler11\euler11\Debug\euler11.exe
+  euler11.vcxproj -> D:\Luke\code\Euler\euler11\euler11\Debug\euler11.pdb (Partial PDB)
